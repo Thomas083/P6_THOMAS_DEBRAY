@@ -1,0 +1,5 @@
+DB_PASSWORD= mdp de la base de donnée
+DB_USER= User de la base de donnée
+DB_NAME= nom de la base de donnée
+DB_LINK= lien de la base de donnée (@cluster.dfhg.mongodb.net)
+JWT_PASSWORD= clef de hashage
